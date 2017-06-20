@@ -5,7 +5,7 @@ create new repository and copy the url
 
 come to local machine
 goto respective folder 
-do following step :
+do following step :<br/>
 1.git init
 2.git add (. or fileName)
 3.git commit *(-m to message)
